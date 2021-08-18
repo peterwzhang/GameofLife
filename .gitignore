@@ -1,0 +1,6 @@
+# ide stuff
+.cache
+.vscode
+compile_commands.json
+
+build/
