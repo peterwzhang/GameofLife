@@ -50,6 +50,6 @@ cmake --build .
 These are some examples of some common patterns in the Game of Life:
 
 1. Block ![Block Video](demo/block.gif)
-2. Glider ![Glider Video](demo/glidergun.gif)
+2. Glider ![Glider Video](demo/glider.gif)
 3. Gosper glider gun ![Ggg video](demo/glidergun.gif)
 4. Penta-decathlon ![Penta Video](demo/pentadecathlon.gif)
